@@ -1,0 +1,23 @@
+{
+  "name": "@runnerty/notifier-console",
+  "version": "1.0.0",
+  "description": "Runnerty module: Console notifier",
+  "author": "Coderty",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runnerty/notifier-console.git"
+  },
+  "keywords": [
+    "runnerty",
+    "notifier",
+    "console",
+    "debug",
+    "shell"
+  ],
+  "bugs": {
+    "url": "https://github.com/runnerty/notifier-console/issues"
+  },
+  "homepage": "https://github.com/runnerty/notifier-console#readme"
+}
