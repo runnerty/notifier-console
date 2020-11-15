@@ -68,4 +68,12 @@ Define the type of console message that you need (or prefer) in your process' ev
 }
 ```
 
-[Runnerty]: https://www.npmjs.com/package/runnerty
+[Runnerty]: http://www.runnerty.io
+[downloads-image]: https://img.shields.io/npm/dm/@runnerty/notifier-console.svg
+[npm-url]: https://www.npmjs.com/package/@runnerty/notifier-console
+[npm-image]: https://img.shields.io/npm/v/@runnerty/notifier-console.svg
+[david-badge]: https://david-dm.org/runnerty/notifier-console.svg
+[david-badge-url]: https://david-dm.org/runnerty/notifier-console
+[config.json]: http://docs.runnerty.io/config/
+[plan.json]: http://docs.runnerty.io/plan/
+
