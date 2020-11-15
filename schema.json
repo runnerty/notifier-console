@@ -4,10 +4,7 @@
   "definitions": {
     "config": {
       "type": "object",
-      "required": [
-        "id",
-        "type"
-      ],
+      "required": ["id", "type"],
       "properties": {
         "id": {
           "type": "string"
@@ -20,12 +17,10 @@
     },
     "params": {
       "type": "object",
-      "required": [
-        "message"
-      ],
+      "required": ["message"],
       "properties": {
         "message": {
-          "type":"string"
+          "type": "string"
         },
         "mode": {
           "type": "string"
