@@ -23,8 +23,12 @@ Add in [config.json]:
 
 ```json
 {
-  "id": "console_default",
-  "type": "@runnerty-notifier-console"
+  "notifiers": [
+    {
+      "id": "console_default",
+      "type": "@runnerty-notifier-console"
+    }
+  ]
 }
 ```
 
@@ -38,9 +42,14 @@ Define the type of console message that you need (or prefer) in your process' ev
 
 ```json
 {
-  "id": "console_default",
-  "message": "Things done right.",
-  "mode": "info"
+  "notifications": {
+    "on_end": [
+      {
+        "id": "console_default",
+        "message": "Things done right.",
+        "mode": "info"
+      }
+    ]
 }
 ```
 
