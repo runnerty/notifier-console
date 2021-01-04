@@ -1,0 +1,8 @@
+{
+  "notifiers": [
+    {
+      "id": "console_default",
+      "type": "@runnerty-notifier-console"
+    }
+  ]
+}

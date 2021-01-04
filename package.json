@@ -1,8 +1,8 @@
 {
   "name": "@runnerty/notifier-console",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.0-alpha.2",
   "description": "Runnerty module: Console notifier",
-  "author": "Coderty",
+  "author": "Runnerty Tech",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -28,9 +28,9 @@
     "@runnerty/module-core": "alpha"
   },
   "devDependencies": {
-    "eslint": "^7.15.0",
-    "eslint-config-prettier": "^7.0.0",
-    "eslint-plugin-prettier": "^3.2.0",
+    "eslint": "^7.17.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-prettier": "^3.3.0",
     "prettier": "^2.2.1"
   }
 }
