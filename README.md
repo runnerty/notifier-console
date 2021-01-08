@@ -14,10 +14,25 @@
 A simple console notifier for [Runnerty]
 
 ### Installation:
+Through NPM
+
 ```bash
 npm i @runnerty/notifier-console
 ```
 
+You can also add modules to your project with [runnerty-cli]
+
+```bash
+npx runnerty-cli add @runnerty/notifier-console
+```
+
+This command installs the module in your project, adds example configuration in your `config.json`.
+
+If you have installed [runnerty-cli] globally you can include the module with this command:
+
+```bash
+rty add @runnerty/notifier-console
+```
 ### Configuration sample:
 Add in [config.json]:
 
@@ -85,4 +100,5 @@ Define the type of console message that you need (or prefer) in your process' ev
 [david-badge-url]: https://david-dm.org/runnerty/notifier-console
 [config.json]: http://docs.runnerty.io/config/
 [plan.json]: http://docs.runnerty.io/plan/
+[runnerty-cli]: https://www.npmjs.com/package/runnerty-cli
 
