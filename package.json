@@ -1,6 +1,6 @@
 {
   "name": "@runnerty/notifier-console",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Runnerty module: Console notifier",
   "author": "Runnerty Tech",
   "license": "MIT",
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/runnerty/notifier-console#readme",
   "dependencies": {
-    "@runnerty/module-core": "~3.0.3"
+    "@runnerty/module-core": "~3.0.4"
   },
   "devDependencies": {
     "eslint": "^7.19.0",
